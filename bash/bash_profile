@@ -1,2 +1,4 @@
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
+export CF_COLOR=true
+export ROUTER_ADDR="http://google.com"
