@@ -13,7 +13,7 @@ cask 'pycharm'
 cask 'datagrip'
 cask 'postman'
 cask 'atom'
-cask 'iterm3'
+cask 'iterm2'
 cask 'firefox'
 
 brew 'cf-cli'
