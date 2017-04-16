@@ -1,10 +1,10 @@
-execute pathogen#infect()
 syntax on
+set nocompatible
 filetype plugin indent on
 
 "I can actually see this theme...
 set background=dark
-colorscheme zenburn
+colorscheme solarized
 
 " ================ General Config ====================
 
