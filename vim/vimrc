@@ -2,9 +2,7 @@ syntax on
 set nocompatible
 filetype plugin indent on
 
-"I can actually see this theme...
 set background=dark
-colorscheme solarized
 
 " ================ General Config ====================
 
